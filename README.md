@@ -1,2 +1,0 @@
-# wrayz.github.io
-Blog
