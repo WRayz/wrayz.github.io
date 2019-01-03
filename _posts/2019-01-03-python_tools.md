@@ -33,7 +33,13 @@ Python => Jython => Java Byte Code => Java Virtual Machine => Machine Code
 
 ## 特性
 
+- 變數不用宣告型別，Python 會透過 expression 右邊的值自行推演型別
 - string 大小寫有所區分
+- bool expression 是 True/False，不是全小寫
+- bool 也有 Truthy 和 Falsy
+  - Falsy: "", 0, None
+  - Truthy: 除 Falsy 外都是 Truthy
+    > 注意連 bool(-1) 都是 True...
 
 ## 專有名詞
 
