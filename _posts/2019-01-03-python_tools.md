@@ -1,3 +1,10 @@
+---
+layout: post
+title: 'Python3 使用工具'
+date: 2019-01-03 16:40:6 +0800
+categories: Python
+---
+
 # Python3
 
 課程講師：Mosh
@@ -23,6 +30,10 @@ Python => CPython => Python Byte Code => Python Virtual Machine => Machine Code
 ```txt
 Python => Jython => Java Byte Code => Java Virtual Machine => Machine Code
 ```
+
+## 特性
+
+- string 大小寫有所區分
 
 ## 專有名詞
 
